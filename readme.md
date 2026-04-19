@@ -12,7 +12,7 @@ The goal is to extract meaningful insights that help in business decision-making
   - Product
   - Region
   - Date
-
+ 
 ## 🛠 Tools & Technologies
 - Python (Pandas, Matplotlib)
 - SQL
